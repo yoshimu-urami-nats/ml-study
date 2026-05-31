@@ -2,18 +2,11 @@
 
 機械学習学習ログ
 
-## 環境
+## 00_sandbox
+自由研究・実験
 
-- Python
-- JupyterLab
-- pandas
-- numpy
+## 01_company_course
+会社指定教材
 
-## 学習履歴
-
-### 01_numpy_basics
-
-- pandas導入
-- numpy導入
-- DataFrame作成
-- 配列計算
+## 02_moruusa_project
+モルかウサか判定AI
