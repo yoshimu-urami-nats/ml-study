@@ -1,5 +1,8 @@
 # Pythonライブラリ一覧
 
-numpy
 pandas
-jupyterlab
+matplotlib
+seaborn
+scikit-learn
+jupyter
+numpy
